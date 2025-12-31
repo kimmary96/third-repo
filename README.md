@@ -1,5 +1,4 @@
-# third-repo
-이 프로젝트는 git을 배우기 위해 생성되었습니다.
+# Hekko, I am from remote.
 
 ## Prerequisites
 
